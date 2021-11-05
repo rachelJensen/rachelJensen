@@ -2,15 +2,17 @@
 
 My name is Rachel and I am a fiction writer turned software engineer. As a creator, problem-solver, and strategic thinker, I know that collaboration is powerful. Whether it's editing a manuscript or refactoring code, great products are a process, and there is always more to learn. 
 
+A few things about me...
+- 🌈 My pronouns are she/her
+- 💻 I am currently working on phase 2 of Your EPK, an electronic press kit app for indie filmmakers
+- 🛼 I am obsessed with roller skating
+- I am a graduate of [Turing School of Software and Design](https://turing.edu/)
+
 ✨ Technologies I work with:
 
 Dev: React | Router | JavaScript | TypeScript | HTML5 | CSS | Sass 
 TDD: Cypress | Mocha/Chai
 Tools & Workflow: Git | GitHub | Slack | Wireframing | Agile 
-
-I'm all about community and making new friends so reach out if you want to connect about coding, roller skating, or that book you're working on.
-
-[Turing School of Software and Design](https://turing.edu/). The 
 
 <!--
 **rachelJensen/rachelJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
