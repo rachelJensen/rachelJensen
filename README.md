@@ -9,7 +9,7 @@ A few things about me...
 - 🌇  I am a graduate of [Turing School of Software and Design](https://turing.edu/)
 
 
-✨ Technologies I work with ✨
+### ✨ Technologies I work with ✨
 Dev: React | Router | JavaScript | TypeScript | HTML5 | CSS | Sass 
 TDD: Cypress | Mocha/Chai
 Tools & Workflow: Git | GitHub | Slack | Wireframing | Agile 
