@@ -6,10 +6,10 @@ A few things about me...
 - 🌈 My pronouns are she/her
 - 💻 I am currently working on phase 2 of Your EPK, an electronic press kit app for indie filmmakers
 - 🛼 I am obsessed with roller skating
-- I am a graduate of [Turing School of Software and Design](https://turing.edu/)
+- 🌇 I am a graduate of [Turing School of Software and Design](https://turing.edu/)
+- 
 
-✨ Technologies I work with:
-
+✨ Technologies I work with ✨
 Dev: React | Router | JavaScript | TypeScript | HTML5 | CSS | Sass 
 TDD: Cypress | Mocha/Chai
 Tools & Workflow: Git | GitHub | Slack | Wireframing | Agile 
