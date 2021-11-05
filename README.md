@@ -10,9 +10,9 @@ A few things about me...
 
 
 ### ✨ Technologies I work with ✨
-Dev: React | Router | JavaScript | TypeScript | HTML5 | CSS | Sass 
-TDD: Cypress | Mocha/Chai
-Tools & Workflow: Git | GitHub | Slack | Wireframing | Agile 
+#### React | Router | JavaScript | TypeScript | HTML5 | CSS | Sass 
+#### Cypress | Mocha/Chai
+#### Git | GitHub | Slack | Wireframing | Agile 
 
 <!--
 **rachelJensen/rachelJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
