@@ -23,11 +23,11 @@ A few things about me...
 - 🛼   I am obsessed with roller skating
 - 🌇   I am a graduate of [Turing School of Software and Design](https://turing.edu/)
 
-
+<!-- 
 ### ✨ Technologies I work with ✨
 #### React | Router | JavaScript | TypeScript | HTML5 | CSS | Sass 
 #### Cypress | Mocha/Chai
-#### Git | GitHub | Slack | Wireframing | Agile 
+#### Git | GitHub | Slack | Wireframing | Agile  -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelJensen&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
