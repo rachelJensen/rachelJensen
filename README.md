@@ -1,5 +1,5 @@
 <!-- ![Rachel Jensen](https://user-images.githubusercontent.com/81662051/141228948-26e94f0f-bb84-4f6b-8301-dc666e309f04.gif) -->
-![Rachel Jensen](https://user-images.githubusercontent.com/81662051/141229305-10ce2e32-d495-4a4d-93af-9796af5ab038.jpg)
+![Rachel Jensen](https://user-images.githubusercontent.com/81662051/141229507-4df8c2dc-73f3-4ef6-a91e-067b9898f560.png)
 
 ### Hi there! 
 
