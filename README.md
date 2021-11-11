@@ -13,9 +13,9 @@
 <!--     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 </p>
 
-### Hi there! 
+## Hi there! 
 
-My name is Rachel and I am a fiction writer turned software engineer. As a creator, problem-solver, and strategic thinker, I know the power of collaboration. Whether it's editing a manuscript or refactoring code, great products are a process, and there is always more to learn. 
+### My name is Rachel and I am a fiction writer turned software engineer. As a creator, problem-solver, and strategic thinker, I know the power of collaboration. Whether it's editing a manuscript or refactoring code, great products are a process, and there is always more to learn. 
 
 A few things about me...
 - ⛷   My pronouns are she/her
