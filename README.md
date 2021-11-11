@@ -1,3 +1,5 @@
+![Rachel Jensen](https://user-images.githubusercontent.com/81662051/141228948-26e94f0f-bb84-4f6b-8301-dc666e309f04.gif)
+
 ### Hi there! 
 
 My name is Rachel and I am a fiction writer turned software engineer. As a creator, problem-solver, and strategic thinker, I know the power of collaboration. Whether it's editing a manuscript or refactoring code, great products are a process, and there is always more to learn. 
