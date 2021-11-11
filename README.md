@@ -1,6 +1,6 @@
 <!-- ![Rachel Jensen](https://user-images.githubusercontent.com/81662051/141228948-26e94f0f-bb84-4f6b-8301-dc666e309f04.gif) -->
 ![Rachel Jensen](https://user-images.githubusercontent.com/81662051/141229507-4df8c2dc-73f3-4ef6-a91e-067b9898f560.png)
-<p text-align="center"> 
+<p align="center"> 
     <img alt="React Badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img alt="TypeScript Badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -9,8 +9,8 @@
     <img alt="Cypress Badge" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
     <img alt="Mocha Badge" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
     <img alt="Chai Badge" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
-<!--     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
     <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<!--     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 </p>
 
 ### Hi there! 
