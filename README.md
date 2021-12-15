@@ -19,7 +19,7 @@
 
 A few things about me...
 - ⛷   My pronouns are she/her
-- 💻   Along with the Your EPK team, I recently won a Demo Competition with our application [Your EPK](https://www.youtube.com/watch?v=ZexHIjOFHDQ), an electronic press kit app for indie filmmakers
+- 💻   My team recently won a Demo Competition with our application [Your EPK](https://www.youtube.com/watch?v=ZexHIjOFHDQ)--an electronic press kit app for indie filmmakers
 - 🤯   I am currently learning Next.js and GraphQL
 - 🛼   I am obsessed with roller skating
 - 🌇   I am a graduate of [Turing School of Software and Design](https://turing.edu/)
