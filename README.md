@@ -18,9 +18,9 @@
 #### My name is Rachel and I am a fiction writer turned software engineer. As a creator, problem-solver, and strategic thinker, I know the power of collaboration. Whether it's editing a manuscript or refactoring code, great products are a process, and there is always more to learn. 
 
 A few things about me...
-- ⛷   My pronouns are she/her
-- 💻   My team recently won a Demo Competition with our application [Your EPK](https://www.youtube.com/watch?v=ZexHIjOFHDQ)--an electronic press kit app for indie filmmakers
-- 🤯   I am currently learning Next.js and GraphQL
+- 💻   I am a Software Developer at [Thoughtworks](https://www.thoughtworks.com/en-us), a leading global technology consultancy
+- 🤩   My pronouns are she/her
+- 🤯   I am currently learning AWS
 - 🛼   I am obsessed with roller skating
 - 🌇   I am a graduate of [Turing School of Software and Design](https://turing.edu/)
 
