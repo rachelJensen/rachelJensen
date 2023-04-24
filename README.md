@@ -20,7 +20,6 @@
 A few things about me...
 - 💻   I am a Software Developer at [Thoughtworks](https://www.thoughtworks.com/en-us), a leading global technology consultancy
 - 🤩   My pronouns are she/her
-- 🤯   I am currently learning AWS
 - 🛼   I am obsessed with roller skating
 - 🌇   I am a graduate of [Turing School of Software and Design](https://turing.edu/)
 
